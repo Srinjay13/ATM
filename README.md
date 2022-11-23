@@ -8,4 +8,4 @@ To run the project
 4.Or in Windows open command prompt and go to project Directory
 5. run command : javac ATM.java
 6. In command prompt run command: java ATM
-7. Project will start running
+7. Project will start running.
